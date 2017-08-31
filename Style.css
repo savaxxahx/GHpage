@@ -13,4 +13,6 @@ img{
 	padding: 25px;
 	border: 25px solid red;
 	margin: 50px;
+	display: none;
+	width: 20%;
 }
